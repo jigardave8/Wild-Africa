@@ -48,7 +48,6 @@
 		01C58BDE264BA546009D2A03 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C58BDD264BA546009D2A03 /* LocationModel.swift */; };
 		01C58BE1264BA55D009D2A03 /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C58BE0264BA55D009D2A03 /* VideoModel.swift */; };
 		01C58BE5264BAB0A009D2A03 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 01C58BE4264BAB0A009D2A03 /* Stickers.xcstickers */; };
-		01C58BEC264BAC66009D2A03 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 01C58BEB264BAC66009D2A03 /* Info.plist */; };
 		01CD9FBE263AA4D90097E5BB /* CoverImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CD9FBD263AA4D90097E5BB /* CoverImageView.swift */; };
 		01CD9FC3263B0ABB0097E5BB /* CoverImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CD9FC2263B0ABB0097E5BB /* CoverImageModel.swift */; };
 		01CD9FC7263B0DBB0097E5BB /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CD9FC6263B0DBB0097E5BB /* CodableBundleExtension.swift */; };
@@ -98,7 +97,6 @@
 		01C58BDD264BA546009D2A03 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		01C58BE0264BA55D009D2A03 /* VideoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
 		01C58BE4264BAB0A009D2A03 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; path = Stickers.xcstickers; sourceTree = "<group>"; };
-		01C58BEB264BAC66009D2A03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01CD9FBD263AA4D90097E5BB /* CoverImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageView.swift; sourceTree = "<group>"; };
 		01CD9FC2263B0ABB0097E5BB /* CoverImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageModel.swift; sourceTree = "<group>"; };
 		01CD9FC6263B0DBB0097E5BB /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
@@ -219,7 +217,6 @@
 			isa = PBXGroup;
 			children = (
 				01C58BE4264BAB0A009D2A03 /* Stickers.xcstickers */,
-				01C58BEB264BAC66009D2A03 /* Info.plist */,
 			);
 			path = Stickers;
 			sourceTree = "<group>";
@@ -323,7 +320,6 @@
 			files = (
 				01B4ED64263963A800CF6C92 /* covers.json in Resources */,
 				01B4ED552639636500CF6C92 /* cheetah.mp4 in Resources */,
-				01C58BEC264BAC66009D2A03 /* Info.plist in Resources */,
 				01B4ED542639636500CF6C92 /* ostrich.mp4 in Resources */,
 				01B4ED65263963A800CF6C92 /* videos.json in Resources */,
 				01B4ED582639636500CF6C92 /* hippo.mp4 in Resources */,
