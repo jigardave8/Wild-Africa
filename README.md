@@ -8,18 +8,17 @@
 # <h1>Wild-Africa </h1> 
 <h2> Wild-Africa is a SwiftUI based app useful for tracking the place of wild life and the videos of the wild life . </h2>
 
-![Optional Text]()
+![Optional Text](https://user-images.githubusercontent.com/13096575/123526729-6d108f00-d6f7-11eb-8bef-a0c1fd8ac10e.png)
 
 
 
 <p align="center"> </P>
-   <img src=”()”>
+   <img src=”(https://user-images.githubusercontent.com/13096575/123526729-6d108f00-d6f7-11eb-8bef-a0c1fd8ac10e.png)”>
 
 The Wild-Africa app showcases the varity of the animals living in the african continent. 
 Be it cheetah, ostrich, elephant, lion, zebra.
 
-<img src="" width="300" height="600">______<img src="" width="300" height="600">_____
-<img src="" width="300" height="600"></P>
+<img src="https://user-images.githubusercontent.com/13096575/123526747-8fa2a800-d6f7-11eb-89e2-27149baccd35.png" width="300" height="600">______________________<img src="https://user-images.githubusercontent.com/13096575/123526754-9fba8780-d6f7-11eb-98a4-9dbcd75e2a89.gif" width="300" height="600"></P>
 
 
 
